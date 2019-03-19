@@ -9,6 +9,6 @@ namespace Composertest;
 
 class test{
     public function test(){
-        echo 'hello,liaoshimin';
+        echo 'hello,liaoshimin111212121212';
     }
 }
